@@ -1,0 +1,5 @@
+E:\01_Work\20210721_Freelancer_C#_hotkey_VD\HotkeyService\ProcessExtensions\bin\ProcessExtensions.dll
+E:\01_Work\20210721_Freelancer_C#_hotkey_VD\HotkeyService\ProcessExtensions\bin\ProcessExtensions.pdb
+E:\01_Work\20210721_Freelancer_C#_hotkey_VD\HotkeyService\ProcessExtensions\obj\Release\ProcessExtensions.csproj.CoreCompileInputs.cache
+E:\01_Work\20210721_Freelancer_C#_hotkey_VD\HotkeyService\ProcessExtensions\obj\Release\ProcessExtensions.dll
+E:\01_Work\20210721_Freelancer_C#_hotkey_VD\HotkeyService\ProcessExtensions\obj\Release\ProcessExtensions.pdb
